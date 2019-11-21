@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Data_base_connect", "Data_base_connect\Data_base_connect.dtproj", "{84FF997C-DF07-4866-988A-F7263FED45C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84FF997C-DF07-4866-988A-F7263FED45C0}.Development|Default.ActiveCfg = Development
+		{84FF997C-DF07-4866-988A-F7263FED45C0}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {008B56D5-1548-47C2-BA9E-FDDCB1CBC87F}
+	EndGlobalSection
+EndGlobal

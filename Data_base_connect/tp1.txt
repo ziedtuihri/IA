@@ -1,0 +1,4 @@
+nom:prenom:class:adress
+zied:tuihri:dsi31:mon adress ici
+mohamed:arfewi:dsi31:mon adress ici
+weal:lakhmi:dsi31:mon adress ici
